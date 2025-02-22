@@ -11,3 +11,8 @@ I'm a passionate software developer Lead Manager with a strong focus on .NET dev
 
 .NET, Azure, AWS, Visual Studio, Visual Studio Code, C#,  Web Services, Web API, .Net Core Web API. .Net Core, .Net MVC, Microservices, MSSQL, JIRA, BitBucket, Generative AI
 
+🤝 Connect with Me
+
+Email : harsh.gohil1974@gmail.com
+Linkedin : https://www.linkedin.com/in/harshad-gohil-3738734/
+Mobile: 7738383649
